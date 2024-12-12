@@ -3,6 +3,7 @@
 I am an electrical engineer student at csuf.
 
 Favorite CPSC 120L labs
+
 Lab 4, part 2  
 
   * This lab was fun because it was the first time that I got to use to nested if statements. They were used to make a guessing game. 
